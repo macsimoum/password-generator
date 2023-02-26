@@ -53,11 +53,9 @@ curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
 
 ## Usage/Examples
 
-```javascript
-pipenv
-shell
-python
-password_generator.py
+```bash
+pipenv shell
+python password_generator.py
 ```
 
 ## Acknowledgements
